@@ -28,7 +28,8 @@ var overlayStyles = {
   height: '100vh',
 
   // Curved edges roughly like what a CRT looked like
-  borderRadius: '5% / 50%',
+  // Not feeling it
+  //borderRadius: '5% / 50%',
 
   // Inner shadow to give a slight rounded effect
   boxShadow: 'rgba(255, 255, 255, 0.2) 2em 7em 10em -1em inset,' +
